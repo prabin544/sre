@@ -116,7 +116,7 @@ export default function TablePage() {
     </Table>
     <Row>
       <Col size="8">
-        <h5>Sort By:</h5>
+        <h6>Sort By:</h6>
         <select 
           style={{ width: "50%", borderRadius: "2px", height: "35px"}}
           onChange={handleSort}
@@ -131,7 +131,7 @@ export default function TablePage() {
         </select>
       </Col>
       <Col size="8">
-        <h5>Filter By Env:</h5>
+        <h6>Filter By Env:</h6>
         <select 
           style={{ width: "50%", borderRadius: "2px", height: "35px"}}
           onChange={handleFilter}
