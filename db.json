@@ -1,20 +1,35 @@
 {
     "users": [
         {
+            "Env": "Dev",
             "FirstName": "Prabin",
             "LastName": "Otto",
             "Username":"@mdo"
         },
         {
+            "Env": "Uat",
             "FirstName": "Jacob",
             "LastName": "jOtto",
             "Username":"@kdo"
         },
         {
+            "Env": "Prod",
             "FirstName": "Rabin",
             "LastName": "thitto",
             "Username":"@bdo"
-        }       
+        },
+        {
+            "Env": "Dev",
+            "FirstName": "Rabin",
+            "LastName": "thitto",
+            "Username":"@bdo"
+        },
+        {
+            "Env": "Dev",
+            "FirstName": "Rabin",
+            "LastName": "thitto",
+            "Username":"@bdo"
+        }         
 
     ]
 }
