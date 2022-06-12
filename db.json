@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "FirstName": "Prabin",
+            "LastName": "Otto",
+            "Username":"@mdo"
+        },
+        {
+            "FirstName": "Jacob",
+            "LastName": "jOtto",
+            "Username":"@kdo"
+        },
+        {
+            "FirstName": "Rabin",
+            "LastName": "thitto",
+            "Username":"@bdo"
+        }       
+
+    ]
+}
